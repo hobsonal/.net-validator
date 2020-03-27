@@ -1,1 +1,1 @@
-# .net-validator
+# The .Net Source Code Validator is an application that checks other projects for code cleanliness, proper styles, and adherence to agreed upon norms. It is designed to strictly follow a Microkernel Architectural Pattern.
